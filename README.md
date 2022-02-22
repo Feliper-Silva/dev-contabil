@@ -2,7 +2,7 @@
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/84206933/155211904-bfe82f54-6bb4-494d-adfa-27701e256f91.png"/></h3>
 
 
-Dev contabil especializada para devs.
+Landing page reproduzida
 
 ## Tecnologias:
 
